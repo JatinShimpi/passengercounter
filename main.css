@@ -1,0 +1,39 @@
+body {
+    background-image: url(istockphoto-1060797334-612x612.jpg);
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position: center;
+    background-size:cover;
+}
+h1{
+    text-align:center;
+    margin-top: 100px;
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+}
+.container {
+    text-align: center;
+    
+}
+#btn1{
+    background-color: #2e56d8;
+    width:200px;
+}
+#btn2{
+    background-color: #04AA6D;
+    margin-top: 10px;
+    width:200px;
+}
+#btn4{
+    background-color: crimson;
+    margin-top: 10px;
+    width:200px;
+}
+#saveEl{
+    text-align: center;
+    margin-top: 50px;
+    font-size:larger;
+    font-weight:500;
+}
